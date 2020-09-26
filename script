@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Hello</shortname>
+  <description>Polite greeting</description>
+  <url>/hello</url>
+</webscript>
+
+
+
+// makes your web broswer say "Hello" on that big booty screen
